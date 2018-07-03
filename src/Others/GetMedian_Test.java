@@ -44,6 +44,7 @@ public class GetMedian_Test {
         test.Insert(3);
         test.Insert(5);
         test.Insert(7);
+        test.Insert(1);
         System.out.println(test.GetMedian());
     }
 
